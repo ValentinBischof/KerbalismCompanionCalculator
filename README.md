@@ -1,4 +1,4 @@
-# KerbalismKompanionKalkulator 
+# Kerbalism Companion Calculator
 K³ implements an antenna planner for Kerbalism.
 
 ### Compatibility 
