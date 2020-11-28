@@ -1,7 +1,13 @@
 # KerbalismKompanionKalkulator 
-K³ implements a Antenna Planner for Kerbalism with support for NFeX's Reflectors
+K³ implements an antenna planner for Kerbalism.
 
-![image](https://i.imgur.com/Eh2V3Yf.png "Planner GUI")
+### Compatibility 
+* All kind of planet packs
+* ResearchBodies support
+* NFeX Reflectors support
+
+
+![image](https://i.imgur.com/tzt9ruC.png "Planner GUI")
 
 ### License
 * This project is licensed under CreativeCommons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)
