@@ -136,7 +136,7 @@ namespace KerbalismCompanionCalculator
         /// <returns>double</returns>
         public static double getKerbalismDataRateOverDistance(List<ModuleDataTransmitter> moduleList, double targetDistance, double DSNPower)
         {
-            return getKerbalismDataRate(moduleList) * Math.Pow(getSignalStrenght(moduleList, targetDistance, DSNPower), Settings.DataRateDampingExponent);
+            return getKerbalismDataRate(moduleList) * Math.Pow(getSignalStrenght(moduleList, targetDistance, DSNPower), Sim.DataRateDampingExponent);
             
         }
 
